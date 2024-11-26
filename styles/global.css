@@ -30,6 +30,10 @@ body {
   color: var(--text-color-secondary);
 }
 
+main {
+  margin-left: auto;
+}
+
 h1, h2 {
   color: var(--text--color-primary);
 }
